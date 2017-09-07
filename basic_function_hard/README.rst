@@ -9,5 +9,5 @@ Exemple
 -------
 
 .. code:: bash
-def function_name(value=5)
+    def function_name(value=5)
     print 5
