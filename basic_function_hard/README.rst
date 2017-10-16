@@ -1,12 +1,12 @@
-==================================================
-This program contain 2 functions of two paramaters
-==================================================
+===================
+Basic_function_hard
+===================
 
-One parameter is with default value
------------------------------------
+This program contain a function with two parameter one of them with default value it return their addition
+----------------------------------------------------------------------------------------------------------
 
-Exemple
--------
+*Exemple*
+
 
 .. code:: bash
     def function_name(value=5)
