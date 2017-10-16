@@ -1,9 +1,12 @@
 ===================================================
-This a program contain a function of two parameters 
+Basic_function_meduim
 ===================================================
 
-exemple
--------
+This a project contain a function with two parameter that return their multiplication
+-------------------------------------------------------------------------------------
+
+
+*example*
 
 .. code:: bash
 
