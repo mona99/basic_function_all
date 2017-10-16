@@ -1,9 +1,14 @@
-=================================================
-This program contain a function without parameter
-=================================================
+===================
+Basic_function_easy
+===================
 
-exemple
--------
+This program contain a function with one parameter
+--------------------------------------------------
+
+
+
+*exampl*
+
 
 .. code:: bash 
     
