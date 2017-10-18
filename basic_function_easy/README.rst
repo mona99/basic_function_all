@@ -7,7 +7,7 @@ This program contain a function with one parameter
 
 
 
-*exampl*
+*example*
 
 
 .. code:: bash 
