@@ -1,7 +1,7 @@
 """Test of the function"""
-import function_easy
- 
+from malib import TOTO
+
 def test_answer():
 
 """Test_answer will test if the function inc"""
-    assert inc(3) == 5
+    assert TOTO(3) == 5
