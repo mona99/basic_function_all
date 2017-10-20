@@ -1,9 +1,9 @@
-===================================================
+=====================
 Basic_function_meduim
-===================================================
+=====================
 
-This a project contain a function with two parameter that return their multiplication
--------------------------------------------------------------------------------------
+This project contain a function with two parameter that return their multiplication
+-----------------------------------------------------------------------------------
 
 
 *example*
