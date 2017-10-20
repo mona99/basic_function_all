@@ -9,5 +9,5 @@ This program contain a function with two parameter one of them with default valu
 
 
 .. code:: bash
-    def function_name(value=5)
-    print 5
+    def function_name(v1=5, v2)
+    return 5+V2
