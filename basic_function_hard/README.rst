@@ -2,12 +2,8 @@
 Basic_function_hard
 ===================
 
-This program contain a function with two parameter one of them with default value it return their addition
-----------------------------------------------------------------------------------------------------------
-
-*Exemple*
+This program will get repository informations from github and gitlab
+--------------------------------------------------------------------
 
 
-.. code:: bash
-    def function_name(v1=5, v2)
-    return 5+V2
+
